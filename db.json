@@ -1,1 +1,6 @@
 
+  form: {
+                    email: "",
+                    api_key: "",
+                    list_id: ""
+                }
