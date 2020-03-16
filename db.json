@@ -1,6 +1,1 @@
-
-{form: {
-                    email: "",
-                    api_key: "",
-                    list_id: ""
-                }}
+form:{  email: "", api_key: "", list_id: "" }
